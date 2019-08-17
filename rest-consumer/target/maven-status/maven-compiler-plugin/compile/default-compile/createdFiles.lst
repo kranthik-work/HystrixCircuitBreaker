@@ -1,0 +1,3 @@
+com\kkalletla\restconsumer\RestConsumerApplication.class
+com\kkalletla\restconsumer\GreetingController.class
+com\kkalletla\restconsumer\GreetingService.class
